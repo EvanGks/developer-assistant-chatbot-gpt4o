@@ -29,8 +29,8 @@ A clean, minimalist chatbot that can answer software development-related questio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gpt4o-dev-chatbot.git
-   cd gpt4o-dev-chatbot
+   git clone https://github.com/EvanGks/developer-assistant-chatbot-gpt4o.git
+   cd developer-assistant-chatbot-gpt4o
 
 2. Install dependencies:
 
@@ -40,7 +40,7 @@ A clean, minimalist chatbot that can answer software development-related questio
 3. Create a .env file in the root directory based on .env.example:
 
     GITHUB_OPENAI_API_KEY=your_github_openai_api_key_here 
-    GITHUB_OPENAI_API_ENDPOINT=https://api.github.com/your-endpoint-path 
+    GITHUB_OPENAI_API_ENDPOINT=https://models.inference.ai.azure.com
     PORT=3000 
     NODE_ENV=development
 
@@ -53,6 +53,7 @@ A clean, minimalist chatbot that can answer software development-related questio
 ### Development Mode
 
 To run the server in development mode with automatic restart on file changes:
+
     ```bash
     npm run dev
 
@@ -76,7 +77,7 @@ Example questions:
 
 ### Project Structure
 
-gpt4o-dev-chatbot/
+developer-assistant-chatbot-gpt4o/
 ├── .env.example          # Example environment variables
 ├── .gitignore            # Git ignore file
 ├── LICENSE               # MIT License
