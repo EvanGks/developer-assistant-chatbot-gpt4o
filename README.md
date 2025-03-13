@@ -1,8 +1,9 @@
-# GPT-4o Developer Assistant Chatbot
+# 🧑‍💻 Developer Assistant Chatbot GPT-4o 🚀
 
+## 📌 Overview
 A clean, minimalist chatbot that can answer software development-related questions using OpenAI's GPT-4o model. Built with Node.js, Express.js, and vanilla JavaScript.
 
-## Features
+## 🚀 Features
 
 - 💬 Instant responses to software development questions
 - 🧠 Powered by OpenAI's advanced GPT-4o model via GitHub's OpenAI SDK API
@@ -10,7 +11,7 @@ A clean, minimalist chatbot that can answer software development-related questio
 - 💻 Clean, responsive UI for desktop and mobile devices
 - 🔒 Secure API key handling through environment variables
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Backend**: Node.js, Express.js
 - **Frontend**: HTML, CSS, JavaScript (Vanilla)
@@ -24,8 +25,7 @@ A clean, minimalist chatbot that can answer software development-related questio
 - npm or yarn
 - GitHub OpenAI API key and endpoint access
 
-### Installation
-
+### 📦 Installation
 1. Clone the repository:
 
    ```bash
@@ -56,7 +56,7 @@ To run the server in development mode with automatic restart on file changes:
 npm run dev
 ```
 
-### Usage
+## Usage
 
 Simply type your software development-related question in the input field and press Enter or click the send button. The chatbot specializes in answering questions about:
 
@@ -92,7 +92,7 @@ developer-assistant-chatbot-gpt4o/
     ├── js/               # Client-side JavaScript
     └── index.html        # Main HTML file
 ```
-### Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -102,12 +102,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
 
-### License
+## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+## Acknowledgments
 - GitHub for providing the OpenAI SDK API access
 - OpenAI for the GPT-4o model
 - Express.js for the web framework
 - Font Awesome for the icons
+
+📫 **Connect with me:** 
+📌 [**LinkedIn**](https://www.linkedin.com/in/evangelos-gakias-346a9072/)
+📌 [**GitHub**](https://github.com/EvanGks)
+📌 [**X**](https://x.com/Evan6471133782)
