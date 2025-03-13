@@ -34,28 +34,27 @@ A clean, minimalist chatbot that can answer software development-related questio
 
 2. Install dependencies:
 
-    ```bash
-    npm install
+   ```bash
+   npm install
 
 3. Create a .env file in the root directory based on .env.example:
-
+	```bash
     GITHUB_OPENAI_API_KEY=your_github_openai_api_key_here 
     GITHUB_OPENAI_API_ENDPOINT=https://models.inference.ai.azure.com
     PORT=3000 
     NODE_ENV=development
-
+	```
 4. Start the server:
-    ```bash
-    npm start
+   ```bash
+   npm start
 
 5. Open your browser and navigate to http://localhost:3000
 
 ### Development Mode
-
 To run the server in development mode with automatic restart on file changes:
-
-    ```bash
-    npm run dev
+```
+npm run dev
+```
 
 ### Usage
 
@@ -70,13 +69,13 @@ Simply type your software development-related question in the input field and pr
 
 Example questions:
 
-"What is the difference between let and const in JavaScript?"
-"How do I set up a React project?"
-"Explain the MVC architecture pattern"
-"What are the benefits of using TypeScript?"
+- "What is the difference between let and const in JavaScript?"
+- "How do I set up a React project?"
+- "Explain the MVC architecture pattern"
+- "What are the benefits of using TypeScript?"
 
 ### Project Structure
-
+```
 developer-assistant-chatbot-gpt4o/
 ├── .env.example          # Example environment variables
 ├── .gitignore            # Git ignore file
@@ -92,7 +91,7 @@ developer-assistant-chatbot-gpt4o/
     ├── css/              # Stylesheets
     ├── js/               # Client-side JavaScript
     └── index.html        # Main HTML file
-
+```
 ### Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
