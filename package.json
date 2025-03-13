@@ -1,0 +1,27 @@
+{
+  "name": "gpt4o-dev-chatbot",
+  "version": "1.0.0",
+  "description": "A simple chatbot for software development topics using GPT-4o",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "keywords": [
+    "openai",
+    "gpt4o",
+    "chatbot",
+    "software-development",
+    "express"
+  ],
+  "author": "EvanGks",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
