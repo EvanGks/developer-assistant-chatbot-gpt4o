@@ -112,7 +112,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Express.js for the web framework
 - Font Awesome for the icons
 
-📫 **Connect with me:** 
-📌 [**LinkedIn**](https://www.linkedin.com/in/evangelos-gakias-346a9072/)
-📌 [**GitHub**](https://github.com/EvanGks)
-📌 [**X**](https://x.com/Evan6471133782)
+## 📬 Contact
+For questions or feedback, please reach out via:
+
+- **GitHub:** [EvanGks](https://github.com/EvanGks)
+- **X (Twitter):** [@Evan6471133782](https://x.com/Evan6471133782)
+- **LinkedIn:** [Evangelos Gakias](https://www.linkedin.com/in/evangelos-gakias-346a9072)
+- **Kaggle:** [evangelosgakias](https://www.kaggle.com/evangelosgakias)
+- **Email:** [evangks88@gmail.com](mailto:evangks88@gmail.com)
+
+---
